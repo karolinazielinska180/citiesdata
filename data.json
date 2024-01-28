@@ -1,0 +1,21 @@
+[{
+  "ID": 1,
+  "Name": "Warszawa"
+},
+  {
+    "ID": 2,
+    "Name": "Berlin"
+  },
+  {
+    "ID": 3,
+    "Name": "Berno"
+  },
+  {
+    "ID": 4,
+    "Name": "Wrocław"
+  },
+  {
+    "ID": 5,
+    "Name": "Paryż"
+  }
+]
